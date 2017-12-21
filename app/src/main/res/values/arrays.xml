@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="choice_array">
+        <item>height</item>
+        <item>distance</item>
+        <item>weight</item>
+        <item>currency</item>
+    </string-array>
+    <string-array name="dynamic_array">
+        <item>item 1</item>
+        <item>item 1</item>
+        <item>item 1</item>
+        <item>item 1</item>
+    </string-array>
+</resources>
